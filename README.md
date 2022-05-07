@@ -1,5 +1,5 @@
-# Akatori-feedback
-Issues and Feedback regarding Akatori
+# Akatori Feedback
+Welcome, please see the links below!
 
 # Submit Feedback
 To submit general feedback, please head over to [discussions](https://github.com/akatori-game/feedback/discussions) and click the green "New discussion" button in the top right.
