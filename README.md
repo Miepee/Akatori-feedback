@@ -6,3 +6,6 @@ To submit general feedback, please head over to [discussions](https://github.com
 
 # Submit Issues
 To submit issues, or something that's not quite right, head over to the [issues](https://github.com/akatori-game/feedback/issues/new/choose) page and click "Bug report".
+
+# Shoutouts
+[Miepee](https://github.com/Miepee) for helping us get started and raising all of the issues posted in Discord!
