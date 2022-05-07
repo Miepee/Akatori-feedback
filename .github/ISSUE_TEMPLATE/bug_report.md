@@ -16,6 +16,7 @@ Steps to reproduce the behavior:
 2. Jump on '....'
 3. Attack '....'
 4. See issue
+(Feel free to remove this section if your issue is performance related)
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
