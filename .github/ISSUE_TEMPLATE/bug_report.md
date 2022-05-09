@@ -38,6 +38,11 @@ If applicable, add screenshots to help explain your problem.
  - Aspect Ratio [e.g. 16:9, 16:10]
  - Resolution [e.g. 1920x1080, 2K, 4K, 8K]
  - Refresh Rate [e.g. 60hz, 75hz, 120hz, 144hz]
+(Please include at minimum, the resolution if your issue is a visual bug!)
+
+**Game Settings:**
+ - Resolution [e.g. 1920x1080, 2K, 4K, 8K]
+(Please include at minimum, the resolution if your issue is a visual bug!)
 
 **Additional context**
 Add any other context about the problem here.
