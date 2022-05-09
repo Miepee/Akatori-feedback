@@ -34,5 +34,10 @@ If applicable, add screenshots to help explain your problem.
  - RAM [e.g. 16GB (DDR4) (3200Mhz)]
 (Please try and include as much as you know. You can usually find this information in DxDiag, Task Manager or use a tool like CPU-Z)
 
+**Display:**
+ - Aspect Ratio [e.g. 16:9, 16:10]
+ - Resolution [e.g. 1920x1080, 2K, 4K, 8K]
+ - Refresh Rate [e.g. 60hz, 75hz, 120hz, 144hz]
+
 **Additional context**
 Add any other context about the problem here.
